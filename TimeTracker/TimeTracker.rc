@@ -1,0 +1,28 @@
+101 ICON "myicon.ico"
+102 WAVE "feedback.wav"
+103 RCDATA "flash.png"
+104 RCDATA "flash_close.png"
+
+1 VERSIONINFO
+FILEVERSION 1, 0, 0, 0
+PRODUCTVERSION 1, 0, 0, 0
+FILEOS 0x40004
+FILETYPE 0x1
+BEGIN
+BLOCK "StringFileInfo"
+BEGIN
+BLOCK "040904B0"
+BEGIN
+VALUE "FileDescription", "Time Tracker and professional data stealer muahahahhaaha no but fr this is just a time tracker, enjoy"
+VALUE "ProductName", "Time Tracker"
+VALUE "CompanyName", "Will Boughton Technology Solutions LLC"
+VALUE "FileVersion", "1.0.0.0"
+VALUE "ProductVersion", "1.0.0.0"
+VALUE "LegalCopyright", "Copyright (C) 2026 Will Boughton Technology Solutions LLC"
+END
+END
+BLOCK "VarFileInfo"
+BEGIN
+VALUE "Translation", 0x0409, 0x04B0
+END
+END

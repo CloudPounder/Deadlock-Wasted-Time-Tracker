@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TimeTracker/TimeTracker.vcxproj" Id="d7bf6cc3-facc-44f3-a500-ea524455d65f" />
+</Solution>
